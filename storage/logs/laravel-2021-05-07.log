@@ -1,0 +1,8 @@
+[2021-05-07 08:43:48] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\xampp\\htdocs\\perpus5\\app\\Http\\Controllers\\ProfileController.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2021-05-07 08:52:48] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\xampp\\htdocs\\perpus5\\app\\Http\\Controllers\\ProfileController.php:3)
+[stacktrace]
+#0 {main}
+"} 

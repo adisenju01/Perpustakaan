@@ -1,0 +1,20 @@
+[2020-10-30 15:52:37] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\xampp\\htdocs\\perpus5\\app\\Http\\Controllers\\ProfileController.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2020-10-30 15:53:59] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\xampp\\htdocs\\perpus5\\app\\Http\\Controllers\\ProfileController.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2020-10-30 16:06:07] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\xampp\\htdocs\\perpus5\\app\\Http\\Controllers\\ProfileController.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2020-10-30 16:07:00] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\xampp\\htdocs\\perpus5\\app\\Http\\Controllers\\ProfileController.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2020-10-30 16:10:45] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\xampp\\htdocs\\perpus5\\app\\Http\\Controllers\\ProfileController.php:3)
+[stacktrace]
+#0 {main}
+"} 
